@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-04T22:45:49.730+05:30"}
+{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-04T22:58:40.871+05:30"}
 ---
 
 ![15054.png](/img/user/15054.png)
@@ -57,3 +57,12 @@ Gadadhara, Srivasa and all others in the line of devotion.
 Welcome to the **Śrīla Prabhupāda Book Repository**, where you can access **Śrīmad-Bhāgavatam** and **Śrī Caitanya-caritāmṛta** in their original, unaltered form—**as it is**. These sacred texts, translated and commented on by **His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda**, provide profound wisdom on bhakti-yoga, spiritual philosophy, and the life of Lord Caitanya Mahāprabhu.
 
 📖 **More books coming soon!** Stay tuned as we continue to expand this collection, preserving and sharing these divine teachings with the world.
+
+ 
+ **Śrī Caitanya-caritāmṛta**
+ 
+[[Ādi-līlā\|Ādi-līlā]] , [[Madhya-līlā\|Madhya-līlā]], [[Antya-līlā\|Antya-līlā]]
+
+**Śrīmad-Bhāgavatam**
+
+[[SB-Hindi\|SB-Hindi]]
