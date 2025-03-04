@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-04T22:58:40.871+05:30"}
+{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-04T23:47:45.858+05:30"}
 ---
 
 ![15054.png](/img/user/15054.png)
