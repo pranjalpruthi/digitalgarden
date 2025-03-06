@@ -1,10 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-04T23:47:45.858+05:30"}
+{"dg-publish":true,"permalink":"/srila-prabhupada-books/","tags":["gardenEntry"],"created":"2025-03-04T22:18:24.804+05:30","updated":"2025-03-06T13:24:07.209+05:30"}
 ---
 
 ![15054.png](/img/user/15054.png)
 
 
+ **Śrī Caitanya-caritāmṛta** - **Hindi Edition**
+ 
+- Ādi-līlā --> [[CC-HI/Ādi-līlā/chapter1\|chapter1]]
+
+- Madhya-līlā --> [[CC-HI/Madhya-līlā/chapter1\|chapter1]]
+
+- Antya-līlā --> [[CC-HI/Antya-līlā/chapter1\|chapter1]]
+
+**Śrīmad-Bhāgavatam** - **Hindi Edition** ---> [[SB-HI/c1\|c1]]
+
+
+**Explore Śrīla Prabhupāda’s Timeless Teachings**
+
+Welcome to the **Śrīla Prabhupāda Book Repository**, where you can access **Śrīmad-Bhāgavatam** and **Śrī Caitanya-caritāmṛta** in their original, unaltered form—**as it is**. These sacred texts, translated and commented on by **His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda**, provide profound wisdom on bhakti-yoga, spiritual philosophy, and the life of Lord Caitanya Mahāprabhu.
+
+📖 **More books coming soon!** Stay tuned as we continue to expand this collection, preserving and sharing these divine teachings with the world.
 
 
 > [!Srila-prabhupada-pranati]
@@ -51,18 +67,3 @@ Gadadhara, Srivasa and all others in the line of devotion.
 
 
 ![96171.png](/img/user/96171.png)
-
-**Explore Śrīla Prabhupāda’s Timeless Teachings**
-
-Welcome to the **Śrīla Prabhupāda Book Repository**, where you can access **Śrīmad-Bhāgavatam** and **Śrī Caitanya-caritāmṛta** in their original, unaltered form—**as it is**. These sacred texts, translated and commented on by **His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda**, provide profound wisdom on bhakti-yoga, spiritual philosophy, and the life of Lord Caitanya Mahāprabhu.
-
-📖 **More books coming soon!** Stay tuned as we continue to expand this collection, preserving and sharing these divine teachings with the world.
-
- 
- **Śrī Caitanya-caritāmṛta**
- 
-[[Ādi-līlā\|Ādi-līlā]] , [[Madhya-līlā\|Madhya-līlā]], [[Antya-līlā\|Antya-līlā]]
-
-**Śrīmad-Bhāgavatam**
-
-[[SB-Hindi\|SB-Hindi]]
